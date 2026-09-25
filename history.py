@@ -185,3 +185,7 @@ git commit ""
 %runfile C:/Users/joshu/.spyder-py3/temp.py --wdir
 !git commit -m "."
 !git add *
+!git commit "initial"
+!git commit -m "initial"
+!git remote add origin https://github.com/JoshYeo26/NewtonCooling
+!git add *
